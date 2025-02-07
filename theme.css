@@ -1721,12 +1721,12 @@ progress {
 .itemProgressBar {
   backdrop-filter: blur(4px);
   background: rgba(var(--white-off),.35) !important;
-  height: 10px;
-  border-radius: 30px;
+  height: 5px;
+  border-radius: 5px;
 }
 
 .layout-mobile .itemProgressBar {
-  height: 8px;
+  height: 5px;
 }
 
 /* don't apply the blur inside Settings > Dashboard as it broke things for some reason */
@@ -2511,7 +2511,7 @@ fieldset {
     background-color:rgba(var(--white-off), 0.35) !important;
     border-radius: var(--rounding-circle) !important;
     color: rgba(var(--darkest)) !important;
-    backdrop-filter: blur(50px) !important;
+    backdrop-filter: blur(0px) !important;
 }
 
 .homeLibraryText, .emby-button-foreground {
