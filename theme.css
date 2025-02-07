@@ -18,7 +18,13 @@
   #loginPage {background: url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/login-wallpapers/minimal-gray.png") !important;}
   .layout-tv .backgroundContainer, .layout-desktop .backgroundContainer {background: url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/gradients/gray.png") no-repeat center center;}
 
+/* Featured Content bar*/
 
+.featurediframe { 
+    margin-top: -6em !important; 
+    height: 33em; 
+    width: 100vw
+}
 
 
 :root {
