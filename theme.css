@@ -37,6 +37,11 @@
 }
 }
 
+.material-symbols-outlined {
+    font-size: 15px;
+  }
+
+
 
 :root {
   --white: 243, 242, 243;           /* F3F2F3 */
@@ -1733,7 +1738,7 @@ progress {
 #dashboardPage .itemProgressBar {
   backdrop-filter: none;
 }
-
+`
 
 
 .itemProgressBarForeground {
@@ -2489,8 +2494,8 @@ fieldset {
     background-color: transparent !important;
 }
 .layout-desktop .skinHeader {
-    padding-top: 1.5em !important;
-    padding-bottom: 1.5em !important;
+    padding-top: 1.2em !important;
+    padding-bottom: none !important;
 }
 
 /* Button height */
