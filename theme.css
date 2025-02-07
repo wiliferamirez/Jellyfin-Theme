@@ -26,6 +26,17 @@
     width: 100vw
 }
 
+@media (max-width: 1300px) and (orientation: portrait) {
+    .featurediframe {
+        margin-bottom: 2em;
+        height: 25em;
+        margin-bottom: -7em;
+        margin-top: 1.5em;}
+    .headerTabs {
+        display: none; 
+}
+}
+
 
 :root {
   --white: 243, 242, 243;           /* F3F2F3 */
