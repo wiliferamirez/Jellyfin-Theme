@@ -113,7 +113,7 @@ div.section0 > div.verticalSection > div.itemsContainer {
 
 /*Style backdrop*/
 .backdropImage {
-  filter: blur(6px) saturate(120%) contrast(120%) brightness(40%);
+  filter: blur(0px) saturate(120%) contrast(120%) brightness(40%);
 }
 .card.show-animation:focus>.cardBox {
   -webkit-transform:scale(1.1);
@@ -1791,7 +1791,6 @@ progress {
 #dashboardPage .itemProgressBar {
   backdrop-filter: none;
 }
-`
 
 
 .itemProgressBarForeground {
