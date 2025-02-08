@@ -37,6 +37,52 @@
 }
 }
 
+/*Header Padding*/
+
+.headerTop {
+    padding: .0.5em 0;
+}
+
+.headerButtom {
+    padding: .1em 0;
+}
+
+.libraryPage:not(.noSecondaryNavPage) {
+    padding-top: 6em !important;
+}
+
+/*Get rid of unnecessary features*/
+.headerSyncButton{
+    display: none;
+}
+.headerCastButton{
+    display: none;
+}
+.barsMenuBotton{
+   display:none;
+}
+
+
+/*---------My media Container-------------*/
+
+/* Hide My Media text on desktop */
+#homeTab .section0 .sectionTitle.sectionTitle-cards.padded-left {
+	display: none;
+}
+
+/* Center the content inside My Media section */
+div.section0 > div.verticalSection > div.itemsContainer {
+    display: flex;
+    align-items: center;    /* Horizontally center */
+    justify-content: center; /* Vertically center */
+    gap: 0px; /* Add space between items */
+    padding: 0; /* Remove extra padding if needed */
+}
+
+
+
+
+
 .material-symbols-outlined {
     font-size: 15px;
   }
@@ -2031,7 +2077,8 @@ progress {
 
 /* increase header bar icon sizes */
 .layout-desktop .headerTop {
- font-size: 100%;
+    padding: 0.5em;
+    font-size: 100%;
 }
 
 /* increases sidebar icon sizes to match above */
