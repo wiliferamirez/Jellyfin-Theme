@@ -2579,7 +2579,7 @@ fieldset {
 .headerRight {
     background-color:rgba(var(--white-off), 0.35) !important;
     border-radius: var(--rounding-circle) !important;
-    color: rgba(var(--darkest)) !important;
+    color: white!important;
     backdrop-filter: blur(0px) !important;
 }
 
