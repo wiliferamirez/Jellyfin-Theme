@@ -78,8 +78,16 @@ div.section0 > div.verticalSection > div.itemsContainer {
     gap: 0px; /* Add space between items */
     padding: 0; /* Remove extra padding if needed */
 }
+.verticalSection-extrabottompadding {
+    margin-bottom: -2em;
+}
 
 
+/*-----------------------Backdrop Movie detail page--------------------------------*/
+/*Force backdrop only on detail movie */
+.noBackdropTransparency .detailPageSecondaryContainer{
+    background-color: transparent;
+ }
 
 
 .material-symbols-outlined {
@@ -384,8 +392,8 @@ button.emby-tab-button:nth-child(3) {
 
 .layout-desktop div:not(.sectionTitleContainer-cards) > .sectionTitle-cards {
     margin: 0;
-    padding-bottom: .2em;
-    padding-top: 1em;
+    padding-bottom: none;
+    padding-top: -1em;
 }
 
 .layout-desktop .material-icons.detailButton-icon.play_arrow {
