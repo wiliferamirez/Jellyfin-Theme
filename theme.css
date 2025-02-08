@@ -54,6 +54,13 @@
     padding-top: 6em !important;
 }
 
+/*Get rid of top padding */
+.layout-desktop .skinHeader {
+    padding-top: 0.5em !important;
+    padding-bottom: none !important;
+}
+
+
 /*Get rid of unnecessary features*/
 .headerSyncButton{
     display: none;
@@ -116,7 +123,7 @@ div.section0 > div.verticalSection > div.itemsContainer {
 
 /*Style backdrop*/
 .backdropImage {
-  filter: blur(0px) saturate(120%) contrast(120%) brightness(40%);
+  filter: blur(0px) saturate(120%) contrast(120%) brightness(100%);
 }
 .card.show-animation:focus>.cardBox {
   -webkit-transform:scale(1.1);
@@ -1256,7 +1263,7 @@ progress::-webkit-progress-value {
 }
 
 
-./* increases size and changes color of check boxes */
+/* increases size and changes color of check boxes */
 
 .checkboxOutline {
   border: 0.25em solid;
@@ -1520,7 +1527,7 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
     background-color: black;
 }
 .backgroundContainer {
-    background-color: rgba(var(--accent),0.17) !important;
+    background-color: transparent !important;
 }
 .formDialogHeader,
 .formDialogFooter {
@@ -2550,7 +2557,7 @@ fieldset {
     background-color: transparent !important;
 }
 .layout-desktop .skinHeader {
-    padding-top: 1.2em !important;
+    padding-top: 0.5em !important;
     padding-bottom: none !important;
 }
 
