@@ -675,11 +675,21 @@
 /*Landscape Mode Phones*/
 @media only screen and (max-height: 767px) and (orientation: landscape) {
   #slides-container {
-    height: 83%;
+    height: 90%;
   }
-
+  
+  .button-container {
+  position: absolute;
+  top: calc(50% + 12vh)!important;
+  left: 4vw;
+  display: flex;
+  z-index: 5;
+  justify-content: space-between;
+  gap: 15px;
+  }
+  
   .homeSectionsContainer {
-    top: 65vh !important;
+    top: 51vh !important;
   }
 
   .button-container {
