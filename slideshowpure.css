@@ -134,7 +134,7 @@
 
 .homeSectionsContainer {
   position: relative;
-  top: 60vh;
+  top: 56vh;
   z-index: 6;
 }
 
@@ -221,7 +221,7 @@
   top: 0%;
   right: 0%;
   width: 100%;
-  height: 100%;
+  height: 80%;
   mask-image: linear-gradient(
     to top,
     #fff0 2%,
@@ -363,7 +363,7 @@
 
 .button-container {
   position: absolute;
-  top: calc(50% + 11vh)!important;
+  top: calc(50% + 16vh)!important;
   left: 4vw;
   display: flex;
   z-index: 5;
