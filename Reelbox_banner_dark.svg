@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="350"
+   viewBox="0 0 1000 350"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="Reelbox_banner_dark.svg"
+   inkscape:export-filename="Reelbox_banner_light.png"
+   inkscape:export-xdpi="107"
+   inkscape:export-ydpi="107"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.66340661"
+     inkscape:cx="334.6364"
+     inkscape:cy="251.73099"
+     inkscape:window-width="1440"
+     inkscape:window-height="841"
+     inkscape:window-x="1360"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="301.45578"
+       y="135.58928"
+       width="504.18149"
+       height="200.09293"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.730242"
+       id="path198"
+       cx="163.90053"
+       cy="174.70503"
+       rx="155.95323"
+       ry="157.21996" />
+    <g
+       id="g198"
+       transform="matrix(2.4266372,0,0,2.3966067,-37.48017,-75.318547)">
+      <path
+         style="fill:#41494e;fill-opacity:1;stroke-width:0.264583"
+         d="M 51.605859,146.32183 V 66.489053 l 8.822225,6.277643 0.06716,67.266384 z"
+         id="path194"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#414a4e;fill-opacity:1;stroke-width:0.264583"
+         d="m 65.581587,151.82633 0.03421,-73.928952 8.655265,17.071054 v 50.563158 z"
+         id="path195" />
+      <path
+         style="fill:#d2d1d2;fill-opacity:1;stroke-width:0.264583"
+         d="M 65.613036,77.890557 104.93279,106.31713 79.726175,124.38104 79.67024,113.69743 90.130105,106.23942 74.265366,94.966612 Z"
+         id="path196" />
+      <path
+         style="fill:#41494f;fill-opacity:1;stroke-width:0.264583"
+         d="m 65.686982,71.032745 -0.03662,-10.677798 63.756368,45.928113 -49.730793,35.396 0.02281,-10.80893 34.878923,-24.65148 z"
+         id="path197" />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#d2d1d2;fill-opacity:1"
+       transform="matrix(13.739333,0,0,13.496994,-3805.0102,-1738.0456)"><tspan
+         x="301.45508"
+         y="146.53781"
+         id="tspan2">Reelbox</tspan></text>
+  </g>
+</svg>
